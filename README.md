@@ -5,10 +5,11 @@
 포스팅 주소 : https://eu-ne.tistory.com/entry/Android-Studio-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9C%BC%EB%A1%9C-%EB%89%B4%EC%8A%A4-%EB%A6%AC%EB%8D%94-%EC%96%B4%ED%94%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0
 
 ### 경로
-소스 경로 : newsENG/app/src/main/java/com/example/myapplication/
+소스 경로 : newsENG/app/src/main/java/com/example/myapplication/ 
+
 레이아웃 경로 : newsENG/app/src/main/res/layout/
 
-### 1-1. 파일 설명
+### 1-1. 소스코드 파일 설명
 | 파일명 | 파일 용도 |
 |:--   |:--      |
 | ListNews.kt |  |
@@ -28,7 +29,7 @@
 | Adapter/ViewHolder/ListNewsViewHolder.kt | 뉴스사 정보를 view에 연결하고 넣어주는 역할 |
 | Adapter/ViewHolder/ListSourceAdapter.kt | 카드뷰에 표시될 아이템 뷰를 연결, 어댑터뷰가 출력할 수 있는 형태로 데이터를 제공 |
 
-### 1-2. 레이아웃 설명
+### 1-2. 레이아웃 파일 설명
 | 파일명 | 파일 용도 | 기능 |
 |:--   |:--      |:--    |
 | activity_list_news.xml | 뉴스 article list 화면 | diagonallayout 사용으로 사선으로 분할된 이미지 구현, kenburn view로 동적으로 구현  |
