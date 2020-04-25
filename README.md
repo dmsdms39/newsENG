@@ -13,7 +13,7 @@
 | 파일명 | 파일 용도 |
 |:--   |:--      |
 | ListNews.kt |  |
-| MainActivity.kt | paper DB를 이용해 오프라인 상태에서 cache |
+| MainActivity.kt | paper DB를 이용해 오프라인 상태에서 뉴스 데이터 캐싱 |
 | NewsDetail.kt |  |
 | Remote/RetrofitClient.kt | 서버와 클라이언트간 Http 통신을 위한 인터페이스 |
 | Model/Article.kt | 가져온 json 파일의 정보를 매칭해서 article data 모델 생성 |
