@@ -18,8 +18,8 @@
 | Remote/RetrofitClient.kt | 서버와 클라이언트간 Http 통신을 위한 인터페이스 |
 | Model/Article.kt | 가져온 json 파일의 정보를 매칭해서 article data 모델 생성 |
 | Model/News.kt | 가져온 json 파일의 정보를 매칭해서 뉴스 list article 모델 |
-| Model/Source.kt | 가져온 json 파일의 정보를 매칭해서 뉴스사 list 모델  |
-| Model/WebSite.kt | 가져온 json 파일의 정보를 매칭해 뉴스사 source 모델 |
+| Model/Source.kt | 가져온 json 파일의 정보를 매칭해서 뉴스사 상세내용 가져오는 모델  |
+| Model/WebSite.kt | 가져온 json 파일의 정보를 매칭해 뉴스사 상태와 소스 담는 모델 |
 | Interface/ItemClickListener.kt |  |
 | Interface/NewsService.kt |  |
 | Common/Common.kt | newsapi.org사이트에서 api key 저장, 이를 사용해 뉴스 전달받음 |
